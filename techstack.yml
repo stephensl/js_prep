@@ -1,0 +1,527 @@
+repo_name: stephensl/js_prep
+report_id: 4fef5bbbc821f4187f87837697fd0fcb
+version: 0.1
+repo_type: Public
+timestamp: '2024-02-09T19:27:11+00:00'
+requested_by: stephensl
+provider: github
+branch: main
+detected_tools_count: 41
+tools:
+- name: C lang
+  description: One of the most widely used programming languages of all time
+  website_url: http://en.wikipedia.org/wiki/C_(programming_language)
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/stephensl/js_prep/blob/main/node_modules/readline-sync/package.json
+  detection_source: node_modules/readline-sync/package.json
+  last_updated_by: Lawton Stephens
+  last_updated_on: 2024-01-07 21:06:29.000000000 Z
+- name: D
+  description: Modern convenience. Modeling power. Native efficiency.
+  website_url: http://dlang.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/3117/d-5.png
+  detection_source_url: https://github.com/stephensl/js_prep/blob/main/node_modules/readline-sync/package.json
+  detection_source: node_modules/readline-sync/package.json
+  last_updated_by: Lawton Stephens
+  last_updated_on: 2024-01-07 21:06:29.000000000 Z
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/stephensl/js_prep
+  detection_source: Repo Metadata
+- name: Python
+  description: A clear and powerful object-oriented programming language, comparable
+    to Perl, Ruby, Scheme, or Java.
+  website_url: https://www.python.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/stephensl/js_prep/blob/main/node_modules/readline-sync/package.json
+  detection_source: node_modules/readline-sync/package.json
+  last_updated_by: Lawton Stephens
+  last_updated_on: 2024-01-07 21:06:29.000000000 Z
+- name: Ruby
+  description: A dynamic, interpreted, open source programming language with a focus
+    on simplicity and productivity
+  website_url: https://www.ruby-lang.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/989/ruby.png
+  detection_source_url: https://github.com/stephensl/js_prep/blob/main/node_modules/readline-sync/package.json
+  detection_source: node_modules/readline-sync/package.json
+  last_updated_by: Lawton Stephens
+  last_updated_on: 2024-01-07 21:06:29.000000000 Z
+- name: Swift
+  description: An innovative new programming language for Cocoa and Cocoa Touch.
+  website_url: https://developer.apple.com/swift/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1009/tuHsaI2U.png
+  detection_source_url: https://github.com/stephensl/js_prep/blob/main/node_modules/readline-sync/package.json
+  detection_source: node_modules/readline-sync/package.json
+  last_updated_by: Lawton Stephens
+  last_updated_on: 2024-01-07 21:06:29.000000000 Z
+- name: Node.js
+  description: A platform built on Chrome's JavaScript runtime for easily building
+    fast, scalable network applications
+  website_url: http://nodejs.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
+  detection_source_url: https://github.com/stephensl/js_prep/blob/main/node_modules/readline-sync/package.json
+  detection_source: node_modules/readline-sync/package.json
+  last_updated_by: Lawton Stephens
+  last_updated_on: 2024-01-07 21:06:29.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/stephensl/js_prep
+  detection_source: Repo Metadata
+- name: PyPI
+  description: A repository of software for the Python programming language
+  website_url: https://pypi.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Hosted Package Repository
+  image_url: https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg
+  detection_source_url: https://github.com/stephensl/js_prep/blob/main/node_modules/readline-sync/package.json
+  detection_source: node_modules/readline-sync/package.json
+  last_updated_by: Lawton Stephens
+  last_updated_on: 2024-01-07 21:06:29.000000000 Z
+- name: RubyGems
+  description: Easily download, install, and use ruby software packages on your system
+  website_url: https://rubygems.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/service/12795/5jL6-BA5_400x400.jpeg
+  detection_source_url: https://github.com/stephensl/js_prep/blob/main/node_modules/readline-sync/package.json
+  detection_source: node_modules/readline-sync/package.json
+  last_updated_by: Lawton Stephens
+  last_updated_on: 2024-01-07 21:06:29.000000000 Z
+- name: hub
+  description: Wraps Git with extra features that make working with GitHub easier
+    (by GitHub)
+  website_url: http://hub.github.com/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Git Tools
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/stephensl/js_prep/blob/main/node_modules/readline-sync/package.json
+  detection_source: node_modules/readline-sync/package.json
+  last_updated_by: Lawton Stephens
+  last_updated_on: 2024-01-07 21:06:29.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/stephensl/js_prep/blob/main/node_modules/readline-sync/package.json
+  detection_source: node_modules/readline-sync/package.json
+  last_updated_by: Lawton Stephens
+  last_updated_on: 2024-01-07 21:06:29.000000000 Z
+- name: Typ
+  description: Turn Markdown into formatted PDFs
+  website_url: https://www.typ-set.com/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Assets and Media
+  sub_category: File Conversion
+  image_url: https://img.stackshare.io/service/11914/typ.png
+  detection_source_url: https://github.com/stephensl/js_prep/blob/main/node_modules/readline-sync/package.json
+  detection_source: node_modules/readline-sync/package.json
+  last_updated_by: Lawton Stephens
+  last_updated_on: 2024-01-07 21:06:29.000000000 Z
+- name: CocoaPods
+  description: A dependency manager for Swift and Objective-C Cocoa projects
+  website_url: https://cocoapods.org/
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: CocoaPods Packages
+  image_url: https://img.stackshare.io/service/2426/e1cbdef9d4b11484049a033886578e54_400x400.png
+  detection_source_url: https://github.com/stephensl/js_prep/blob/main/node_modules/readline-sync/package.json
+  detection_source: node_modules/readline-sync/package.json
+  last_updated_by: Lawton Stephens
+  last_updated_on: 2024-01-07 21:06:29.000000000 Z
+- name: EC
+  website_url: BUG
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/4455/no-img-open-source.png
+  detection_source_url: https://github.com/stephensl/js_prep/blob/main/node_modules/readline-sync/package.json
+  detection_source: node_modules/readline-sync/package.json
+  last_updated_by: Lawton Stephens
+  last_updated_on: 2024-01-07 21:06:29.000000000 Z
+- name: OpenLayers
+  description: A high-performance, feature-packed library for all your mapping needs
+  website_url: http://openlayers.org/
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Application Utilities
+  sub_category: Mapping APIs
+  image_url: https://img.stackshare.io/service/3208/397ce8027eb036960f00dd5153d41993.png
+  detection_source_url: https://github.com/stephensl/js_prep/blob/main/node_modules/readline-sync/package.json
+  detection_source: node_modules/readline-sync/package.json
+  last_updated_by: Lawton Stephens
+  last_updated_on: 2024-01-07 21:06:29.000000000 Z
+- name: Q
+  description: A promise library for JavaScript
+  website_url: https://github.com/kriskowal/q
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/4697/default_2d5a1d7c5eb520cdeb7db120e767345004a1d0d4.png
+  detection_source_url: https://github.com/stephensl/js_prep/blob/main/node_modules/readline-sync/package.json
+  detection_source: node_modules/readline-sync/package.json
+  last_updated_by: Lawton Stephens
+  last_updated_on: 2024-01-07 21:06:29.000000000 Z
+- name: User
+  description: A real-time marketing automation tool for companies to turn every visitor
+    into a happy customer
+  website_url: https://user.com/en/
+  open_source: false
+  hosted_saas: false
+  category: Support, Sales, and Marketing
+  sub_category: Marketing Automation
+  image_url: https://img.stackshare.io/service/6519/Y6VD3lCR_400x400.jpg
+  detection_source_url: https://github.com/stephensl/js_prep/blob/main/node_modules/readline-sync/package.json
+  detection_source: node_modules/readline-sync/package.json
+  last_updated_by: Lawton Stephens
+  last_updated_on: 2024-01-07 21:06:29.000000000 Z
+- name: Vercel AI SDK
+  description: An interoperable, streaming-enabled, edge-ready software development
+    kit for AI apps
+  website_url: https://sdk.vercel.ai/docs
+  open_source: true
+  hosted_saas: false
+  category: Communications
+  sub_category: Large Language Model Tools
+  image_url: https://img.stackshare.io/service/101756/default_4f2991cba3ec7fdd1cc87de69f4868157b0f2001.png
+  detection_source_url: https://github.com/stephensl/js_prep/blob/main/node_modules/readline-sync/package.json
+  detection_source: node_modules/readline-sync/package.json
+  last_updated_by: Lawton Stephens
+  last_updated_on: 2024-01-07 21:06:29.000000000 Z
+- name: js
+  website_url: www.js.com
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/5588/jscom.png
+  detection_source_url: https://github.com/stephensl/js_prep/blob/main/node_modules/readline-sync/package.json
+  detection_source: node_modules/readline-sync/package.json
+  last_updated_by: Lawton Stephens
+  last_updated_on: 2024-01-07 21:06:29.000000000 Z
+- name: "@octokit/rest"
+  description: GitHub REST API client for Node.js
+  package_url: https://www.npmjs.com/@octokit/rest
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16999/default_43f23668e39c9b3381720c9c76540776b8a49167.png
+  detection_source_url: https://github.com/stephensl/js_prep/blob/main/node_modules/readline-sync/package.json
+  detection_source: node_modules/readline-sync/package.json
+  last_updated_by: Lawton Stephens
+  last_updated_on: 2024-01-07 21:06:29.000000000 Z
+- name: ai
+  description: The Vercel AI SDK is **a library for building AI-powered streaming
+    text and chat UIs**
+  package_url: https://www.npmjs.com/ai
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/npm/image.png
+  detection_source_url: https://github.com/stephensl/js_prep/blob/main/node_modules/readline-sync/package.json
+  detection_source: node_modules/readline-sync/package.json
+  last_updated_by: Lawton Stephens
+  last_updated_on: 2024-01-07 21:06:29.000000000 Z
+- name: bl
+  description: 'Buffer List: collect buffers and access with a standard readable Buffer
+    interface'
+  package_url: https://www.npmjs.com/bl
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17221/default_183829c5079b84333a720d8590a328efc043ba0e.png
+  detection_source_url: https://github.com/stephensl/js_prep/blob/main/node_modules/readline-sync/package.json
+  detection_source: node_modules/readline-sync/package.json
+  last_updated_by: Lawton Stephens
+  last_updated_on: 2024-01-07 21:06:29.000000000 Z
+- name: cli
+  description: A tool for rapidly building command line apps
+  package_url: https://www.npmjs.com/cli
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17384/default_b39374c3a74b433364bfdbff07be26214bf186fd.png
+  detection_source_url: https://github.com/stephensl/js_prep/blob/main/node_modules/readline-sync/package.json
+  detection_source: node_modules/readline-sync/package.json
+  last_updated_by: Lawton Stephens
+  last_updated_on: 2024-01-07 21:06:29.000000000 Z
+- name: co
+  description: Generator async control flow goodness
+  package_url: https://www.npmjs.com/co
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16007/default_f8be85789693a9901dbcfa43c135c60525ae49a1.png
+  detection_source_url: https://github.com/stephensl/js_prep/blob/main/node_modules/readline-sync/package.json
+  detection_source: node_modules/readline-sync/package.json
+  last_updated_by: Lawton Stephens
+  last_updated_on: 2024-01-07 21:06:29.000000000 Z
+- name: github
+  description: 'DEPRECATED: renamed to @octokit/rest'
+  package_url: https://www.npmjs.com/github
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16751/default_6dc099b12d47e378ae121fb53c336fe5d8f0ffc8.png
+  detection_source_url: https://github.com/stephensl/js_prep/blob/main/node_modules/readline-sync/package.json
+  detection_source: node_modules/readline-sync/package.json
+  last_updated_by: Lawton Stephens
+  last_updated_on: 2024-01-07 21:06:29.000000000 Z
+- name: he
+  description: A robust HTML entities encoder/decoder with full Unicode support
+  package_url: https://www.npmjs.com/he
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17059/default_31b594d049ba66ce98c924544ccc4329a3f2d530.png
+  detection_source_url: https://github.com/stephensl/js_prep/blob/main/node_modules/readline-sync/package.json
+  detection_source: node_modules/readline-sync/package.json
+  last_updated_by: Lawton Stephens
+  last_updated_on: 2024-01-07 21:06:29.000000000 Z
+- name: http
+  package_url: https://www.npmjs.com/http
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16874/default_768abdabb94806c932ace6262b6bbc8241907245.png
+  detection_source_url: https://github.com/stephensl/js_prep/blob/main/node_modules/readline-sync/package.json
+  detection_source: node_modules/readline-sync/package.json
+  last_updated_by: Lawton Stephens
+  last_updated_on: 2024-01-07 21:06:29.000000000 Z
+- name: https
+  description: Https mediation
+  package_url: https://www.npmjs.com/https
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17546/default_8d32936cb624bf7f51657c1540463db0a3c4106e.png
+  detection_source_url: https://github.com/stephensl/js_prep/blob/main/node_modules/readline-sync/package.json
+  detection_source: node_modules/readline-sync/package.json
+  last_updated_by: Lawton Stephens
+  last_updated_on: 2024-01-07 21:06:29.000000000 Z
+- name: i
+  description: Custom inflections for nodejs
+  package_url: https://www.npmjs.com/i
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17326/default_66bbb2a75a0234b1bfceaa99b8e82825fa7b8284.png
+  detection_source_url: https://github.com/stephensl/js_prep/blob/main/node_modules/readline-sync/package.json
+  detection_source: node_modules/readline-sync/package.json
+  last_updated_by: Lawton Stephens
+  last_updated_on: 2024-01-07 21:06:29.000000000 Z
+- name: ip
+  description: "[![]"
+  package_url: https://www.npmjs.com/ip
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16483/default_fc6e1fc17e404d936593b5b901d67abb3386daa3.png
+  detection_source_url: https://github.com/stephensl/js_prep/blob/main/node_modules/readline-sync/package.json
+  detection_source: node_modules/readline-sync/package.json
+  last_updated_by: Lawton Stephens
+  last_updated_on: 2024-01-07 21:06:29.000000000 Z
+- name: is
+  description: The definitive JavaScript type testing library
+  package_url: https://www.npmjs.com/is
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17544/default_e665c133253b5cd434c1991167ebd25dc68f1c17.png
+  detection_source_url: https://github.com/stephensl/js_prep/blob/main/node_modules/readline-sync/package.json
+  detection_source: node_modules/readline-sync/package.json
+  last_updated_by: Lawton Stephens
+  last_updated_on: 2024-01-07 21:06:29.000000000 Z
+- name: node
+  description: Node
+  package_url: https://www.npmjs.com/node
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17983/default_fc5f66cf44024e173fd07c415d4f30ca58b4cbad.png
+  detection_source_url: https://github.com/stephensl/js_prep/blob/main/node_modules/readline-sync/package.json
+  detection_source: node_modules/readline-sync/package.json
+  last_updated_by: Lawton Stephens
+  last_updated_on: 2024-01-07 21:06:29.000000000 Z
+- name: ol
+  description: OpenLayers mapping library
+  package_url: https://www.npmjs.com/ol
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18695/default_ba22650903e999378ab35f8093d2d808f0a46039.png
+  detection_source_url: https://github.com/stephensl/js_prep/blob/main/node_modules/readline-sync/package.json
+  detection_source: node_modules/readline-sync/package.json
+  last_updated_by: Lawton Stephens
+  last_updated_on: 2024-01-07 21:06:29.000000000 Z
+- name: os
+  description: NodeJS Core Module Extended
+  package_url: https://www.npmjs.com/os
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17784/default_b760b4f955878b0055c02bde0608c2f01e7d4f4f.png
+  detection_source_url: https://github.com/stephensl/js_prep/blob/main/node_modules/readline-sync/package.json
+  detection_source: node_modules/readline-sync/package.json
+  last_updated_by: Lawton Stephens
+  last_updated_on: 2024-01-07 21:06:29.000000000 Z
+- name: prompt
+  description: A beautiful command-line prompt for node.js
+  package_url: https://www.npmjs.com/prompt
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16207/default_41f04716a804e853d5c38a5b81ee0ea8a842ad82.png
+  detection_source_url: https://github.com/stephensl/js_prep/blob/main/node_modules/readline-sync/package.json
+  detection_source: node_modules/readline-sync/package.json
+  last_updated_by: Lawton Stephens
+  last_updated_on: 2024-01-07 21:06:29.000000000 Z
+- name: read
+  description: Read
+  package_url: https://www.npmjs.com/read
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17342/default_66bbb2a75a0234b1bfceaa99b8e82825fa7b8284.png
+  detection_source_url: https://github.com/stephensl/js_prep/blob/main/node_modules/readline-sync/package.json
+  detection_source: node_modules/readline-sync/package.json
+  last_updated_by: Lawton Stephens
+  last_updated_on: 2024-01-07 21:06:29.000000000 Z
+- name: readline
+  description: Simple streaming readline module
+  package_url: https://www.npmjs.com/readline
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17372/default_c1932d441699b98abea6098c6f8f65e2acb4f5ed.png
+  detection_source_url: https://github.com/stephensl/js_prep/blob/main/node_modules/readline-sync/package.json
+  detection_source: node_modules/readline-sync/package.json
+  last_updated_by: Lawton Stephens
+  last_updated_on: 2024-01-07 21:06:29.000000000 Z
+- name: readline-sync
+  description: Synchronous Readline for interactively running to have a conversation
+    with the user via a console
+  package_url: https://www.npmjs.com/readline-sync
+  version: 1.4.10
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16439/default_d73092129e1cde5ea9f47f22e2d7c3db7bd6da8d.png
+  detection_source_url: https://github.com/stephensl/js_prep/blob/main/package-lock.json
+  detection_source: node_modules/readline-sync/package.json
+  last_updated_by: Lawton Stephens
+  last_updated_on: 2024-01-07 21:06:29.000000000 Z
+- name: st
+  description: A module for serving static files. Does etags, caching, etc
+  package_url: https://www.npmjs.com/st
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18455/default_d8e945bfec4c4a608fb0493abf73c9ec1cffc9a2.png
+  detection_source_url: https://github.com/stephensl/js_prep/blob/main/node_modules/readline-sync/package.json
+  detection_source: node_modules/readline-sync/package.json
+  last_updated_by: Lawton Stephens
+  last_updated_on: 2024-01-07 21:06:29.000000000 Z
+- name: url
+  description: The core `url` packaged standalone for use with Browserify
+  package_url: https://www.npmjs.com/url
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16462/default_89ba91277e3434b03295bb11d22736632df1d04f.png
+  detection_source_url: https://github.com/stephensl/js_prep/blob/main/node_modules/readline-sync/package.json
+  detection_source: node_modules/readline-sync/package.json
+  last_updated_by: Lawton Stephens
+  last_updated_on: 2024-01-07 21:06:29.000000000 Z
